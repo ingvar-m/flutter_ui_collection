@@ -33,6 +33,9 @@ class SocialLoginButton extends StatelessWidget {
             width: 24,
             height: 24,
             filterQuality: FilterQuality.high,
+            errorBuilder: (context, error, stackTrace) {
+              return const Icon(Icons.image_not_supported);
+            },
           ),
           const SizedBox(width: 8,),
           Flexible(
@@ -50,3 +53,4 @@ class SocialLoginButton extends StatelessWidget {
     );
   }
 }
+
