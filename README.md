@@ -1,6 +1,6 @@
 ##  simple_login
 
-> **Design by:** [Rabia Israr](https://www.figma.com/community/file/107134586619354480)
+> **Design by:** [Rabia Israr](https://www.figma.com/community/file/1071734586619354480/simple-login-screen-for-iphone-ui-design-of-mobile-app)
 
 ![App Demo](https://github.com/ingvar-m/flutter_ui_collection/blob/main/gifs/simple_login.gif)
 
