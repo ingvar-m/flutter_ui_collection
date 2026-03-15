@@ -3,9 +3,9 @@
 A collection of mobile UI layouts brought to life with Flutter. 
 
 ## 📌 Table of Contents
-* [Simple Login](#simple_login)
-* [White Log In](#white_log_in)
-* [Auth Card](#auth_card)
+* [simple_login](#simple_login)
+* [white_log_in](#white_log_in)
+* [auth_card](#auth_card)
 
 ---
 
