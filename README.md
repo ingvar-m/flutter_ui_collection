@@ -6,6 +6,7 @@ A collection of mobile UI layouts brought to life with Flutter.
 * [simple_login](#simple_login)
 * [white_log_in](#white_log_in)
 * [auth_card](#auth_card)
+* [pastel_music_app](#pastel_music_app)
 
 ---
 
@@ -41,6 +42,16 @@ A collection of mobile UI layouts brought to life with Flutter.
   <summary>View result (GIF)</summary>
 
   ![App Demo](https://github.com/ingvar-m/flutter_ui_collection/blob/main/gifs/auth_card.gif)
+</details>
+
+---
+
+##  pastel_music_app
+
+<details>
+  <summary>View result (GIF)</summary>
+
+  ![App Demo](https://github.com/ingvar-m/flutter_ui_collection/tree/main/gifs)
 </details>
 
 ---
