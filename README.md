@@ -64,7 +64,7 @@ A collection of mobile UI layouts brought to life with Flutter.
 <details>
   <summary>View result (GIF)</summary>
 
-  ![App Demo](https://github.com/ingvar-m/flutter_ui_collection/blob/main/gifs/my_cards_ui.gif)
+  ![App Demo]()
 </details>
 
 ---
