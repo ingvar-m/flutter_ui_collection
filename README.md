@@ -9,6 +9,7 @@ A collection of mobile UI layouts brought to life with Flutter.
 * [pastel_music_app](#pastel_music_app)
 * [my_cards_ui](#my_cards_ui)
 * [login_screen_032926](#login_screen_032926)
+* [login_ui_04082026](#login_ui_04082026)
 
 ---
 
@@ -79,5 +80,11 @@ A collection of mobile UI layouts brought to life with Flutter.
 ##  my_cards_04022026
 
 > **Design by:** [chiyoo toni](https://www.figma.com/community/file/1124030565375483857/moneygo)
+
+---
+
+##  login_ui_04082026
+
+> **Design by:** [Ali Husni Majid](https://www.figma.com/community/file/1370757927948360864/20-screen-login-register-mobile-app)
 
 ---
