@@ -6,8 +6,10 @@ class DataField extends StatefulWidget {
   final String text;
   final TextEditingController controller;
   final bool isPassword;
+  final FocusNode? focusNode;
+  final VoidCallback? onEditingComplete;
 
-  const DataField({super.key, required this.text, required this.controller, required this.isPassword});
+  const DataField({super.key, required this.text, required this.controller, required this.isPassword, this.focusNode, this.onEditingComplete});
 
   @override
   State<DataField> createState() => _DataFieldState();
@@ -75,6 +77,8 @@ class _DataFieldState extends State<DataField> {
             color: AppColors.primaryTextColor
           ),
           cursorColor: AppColors.primaryTextColor,
+          focusNode: widget.focusNode,
+          onEditingComplete: widget.onEditingComplete,
         ),
       ],
     );
