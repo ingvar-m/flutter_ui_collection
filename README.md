@@ -10,6 +10,7 @@ A collection of mobile UI layouts brought to life with Flutter.
 * [my_cards_ui](#my_cards_ui)
 * [login_screen_032926](#login_screen_032926)
 * [login_ui_04082026](#login_ui_04082026)
+* [product_card_04122026](#product_card_04122026)
 
 ---
 
@@ -86,5 +87,15 @@ A collection of mobile UI layouts brought to life with Flutter.
 ##  login_ui_04082026
 
 > **Design by:** [Ali Husni Majid](https://www.figma.com/community/file/1370757927948360864/20-screen-login-register-mobile-app)
+
+---
+
+##  product_card_04122026
+
+<details>
+  <summary>View result (GIF)</summary>
+
+  ![App Demo](https://github.com/ingvar-m/flutter_ui_collection/blob/main/gifs/product_card_04122026.gif)
+</details>
 
 ---
