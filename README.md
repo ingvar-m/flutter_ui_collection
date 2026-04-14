@@ -11,6 +11,8 @@ A collection of mobile UI layouts brought to life with Flutter.
 * [login_screen_032926](#login_screen_032926)
 * [login_ui_04082026](#login_ui_04082026)
 * [product_card_04122026](#product_card_04122026)
+* [product_card_04142026](#product_card_04142026)
+
 
 ---
 
@@ -97,5 +99,11 @@ A collection of mobile UI layouts brought to life with Flutter.
 
   ![App Demo](https://github.com/ingvar-m/flutter_ui_collection/blob/main/gifs/product_card_04122026.gif)
 </details>
+
+---
+
+##  product_card_04142026
+
+> **Design by:** [Yamesh_SB](https://www.figma.com/community/file/1235854850814701017)
 
 ---
